@@ -7,3 +7,4 @@ day 4: cmp::ordering, loop, trim, parse
 day 5: input error handling (input not a number)
 day 6: test to understand scope
 day 7: test to understand struct syntax
+day 8: using fn as part of a struct
