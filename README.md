@@ -10,3 +10,4 @@ day 7: test to understand struct syntax
 day 8: using fn as part of a struct
 day 9: using inheritance/subclass with struct, building constructor
 day 10: tcp listener
+day 11: command line arguments, reading file
